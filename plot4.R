@@ -1,4 +1,6 @@
 ## Coursera - Exploratory Data Analysis - Plotting Assignment 1
+
+
 ##
 ## plot4.R - generates plot4.png
 
